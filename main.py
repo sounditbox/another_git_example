@@ -1,4 +1,4 @@
-from blabla import blabla
+from blablabla import blablablabla as blabla
 
 
 def main():
