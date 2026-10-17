@@ -3,7 +3,7 @@ from blabla import blabla
 
 def main():
     print("Hello World!")
-    print(f'Also: {blabla}')
+    print(f'Also: {blabla}!')
     print(f'Also: {blabla}')
 
 
